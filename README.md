@@ -30,8 +30,10 @@ digit % 4
  - `1` - Right
  - `2` - Up
  - `3` - Down
+
 After pressing the correct code you will get a toast message with the answered location you have been arrived. 
 The location you get is by the 8th digit of your ID:
+
 0.  `California`
 1. `Texas`
 2. `Florida`
